@@ -1,6 +1,6 @@
 # asdfasfd
 
-#EXTM3U
+#EXTM3U#EXTM3U
 
 #EXTINF:-1 tvg-chno="1",Gol Peru
 
@@ -730,7 +730,7 @@ http://magmas5.com:8000/live/malotv/gratis/57.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="110",StarKidz family
+#EXTINF:-1 tvg-chno="111",StarKidz family
 
 
 http://magmas5.com:8000/live/malotv/gratis/148541.m3u8
@@ -738,14 +738,46 @@ http://magmas5.com:8000/live/malotv/gratis/148541.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="110",Golden Plus
+#EXTINF:-1 tvg-chno="112",Golden Plus
 
 
 http://magmas5.com:8000/live/malotv/gratis/4288.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="111",Cantinflas
+#EXTINF:-1 tvg-chno="113",Cantinflas
 
 
 http://magmas5.com:8000/live/malotv/gratis/129320.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="114",Cinecanal
+
+
+https://wisp.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="115",History 2 mx
+
+
+http://magmas5.com:8000/live/malotv/gratis/129320.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="116",Gourmet mx
+
+
+http://magmas5.com:8000/live/malotv/gratis/138191.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="117",De Pelicula Plus
+
+
+http://magmas5.com:8000/live/malotv/gratis/135785.m3u8
