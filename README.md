@@ -1,6 +1,5 @@
 # asdfasfd
-
-#EXTM3U#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="1",Gol Peru
 
@@ -764,7 +763,7 @@ https://wisp.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-chno="115",History 2 mx
 
 
-http://magmas5.com:8000/live/malotv/gratis/129320.m3u8
+http://magmas5.com:8000/live/malotv/gratis/132580.m3u8
 
 
 #EXTM3U
